@@ -10,14 +10,14 @@ Generate AppSumo codes & automate the redemption flow.
  - CSRF protection and brute-force prevention.
  - Sanitize and secure all form fields.
  - Send custom emails and alerts with dynamic variables.
- - Support SMTP authentication
- - GET & POST webhooks fully supported
+ - Support SMTP authentication.
+ - GET & POST webhooks fully supported.
 
 # Download
 
 Download and browse the code at [https://github.com/IKAJIAN/appsumo-redemption-page](https://github.com/IKAJIAN/appsumo-redemption-page).
 
-Create a copy of sample.config.php to config.php
+Create a copy of sample.config.php to config.php.
 
 # Generate codes
 
