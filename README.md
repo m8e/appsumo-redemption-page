@@ -17,6 +17,8 @@ Generate AppSumo codes & automate the redemption flow.
 
 Download and browse the code at [https://github.com/IKAJIAN/appsumo-redemption-page](https://github.com/IKAJIAN/appsumo-redemption-page).
 
+Create a copy of sample.config.php to config.php
+
 # Generate codes
 
 Once all the files are imported, you can generate unique codes by adding the GENERATE_CODES parameter to the installation URL: [https://example.com/appsumo?GENERATE_CODES](https://example.com/appsumo?GENERATE_CODES)
