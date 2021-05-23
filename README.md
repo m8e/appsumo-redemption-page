@@ -22,3 +22,6 @@ Create a copy of sample.config.php to config.php.
 # Generate codes
 
 Once all the files are imported, you can generate unique codes by adding the GENERATE_CODES parameter to the installation URL: [https://example.com/appsumo?GENERATE_CODES](https://example.com/appsumo?GENERATE_CODES)
+
+
+https://docs.google.com/presentation/d/15S2Uj6jrc9fNuVK3eUEZ86wD5mwI4tydGH_VnCxNfgA/mobilepresent?slide=id.g824d4aa92e_0_106
